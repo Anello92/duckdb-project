@@ -1,0 +1,4 @@
+
+duckdb
+geopandas
+pyarrow
